@@ -1,7 +1,7 @@
 {
   "name": "vitepress",
   "version": "1.0.0",
-  "main": "index.md",
+  "main": "./docs/index.md",
   "repository": "https://github.com/dongleicode/blog.git",
   "author": "jinrui",
   "license": "MIT",

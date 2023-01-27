@@ -1,3 +1,1 @@
-hello vuepress
-<br/>
-我来了哈
+默认首页
