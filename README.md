@@ -1,2 +1,7 @@
-# vuepress
-自己部署一个笔记
+操作步骤：
+git clone https://github.com/dongleicode/blog.git
+
+cd blog
+
+yarn dev
+
