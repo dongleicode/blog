@@ -1,4 +1,5 @@
-一 defineProperty和proxy的异同：
+<h1>defineProperty和proxy的异同：</h1>
+
     vue2 与 vue3的核心方法不同：
     1、区别一：监听方式
               defineProperty 是对属性劫持，
