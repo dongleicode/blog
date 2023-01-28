@@ -1,4 +1,6 @@
 export default {
+    base: '/blog/',
+    head: [['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no'}]],
     title: 'JINRUI',
     description: 'Just do it.',
     themeConfig: {
