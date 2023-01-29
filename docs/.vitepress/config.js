@@ -1,5 +1,5 @@
 export default {
-    base: '/dongleicode.github.io/',
+    base: '/blog/',
     head: [['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no'}]],
     title: 'JINRUI',
     description: 'Just do it.',
@@ -23,12 +23,12 @@ export default {
                     items: [
                         {
                             text: 'vue相关主题',
-                            link: '../vue/',
+                            link: '/vue/',
                             collapsible: true, 
                             items: [
                                 {
                                     text: 'vue2和vue3核心原理差异',
-                                    link: '../vue/core'
+                                    link: '/vue/core'
                                 }    
                             ]
                         }
@@ -40,7 +40,7 @@ export default {
                     items: [
                         {
                             text: 'React核心',
-                            link: '../react/',
+                            link: '/react/',
                         }
                     ]
                 },
@@ -50,7 +50,7 @@ export default {
                     items: [
                         {
                             text: '架构设计',
-                            link: '../framework/',
+                            link: '/framework/',
                         }
                     ]
                 }
