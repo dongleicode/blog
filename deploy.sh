@@ -19,9 +19,9 @@ git commit -m 'deploy'
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git branch 
 # git@github.com:dongleicode/dongleicode.github.io.git
-# git push -f git@github.com:dongleicode/dongleicode.github.io.git dev:main
+git push -f git@github.com:dongleicode/dongleicode.github.io.git main
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>dongleicode
-git push -f git@github.com:dongleicode/blog.git pro
+# git push -f git@github.com:dongleicode/blog.git pro
 
 
