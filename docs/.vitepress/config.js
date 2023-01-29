@@ -1,5 +1,5 @@
 export default {
-    base: './',
+    base: '/dongleicode.github.io/',
     head: [['meta', {name: 'viewport', content: 'width=device-width, initial-scale=1, user-scalable=no'}]],
     title: 'JINRUI',
     description: 'Just do it.',
