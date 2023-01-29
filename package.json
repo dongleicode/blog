@@ -9,7 +9,8 @@
     "dev": "vitepress dev docs --port 1234",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "deploy": "bash deploy.sh"
   },
   "devDependencies": {
     "sass": "^1.57.1"
