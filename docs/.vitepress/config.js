@@ -22,7 +22,7 @@ export default {
                     collapsible: true,
                     items: [
                         {
-                            text: 'vue相关主题',
+                            text: 'vue相关',
                             link: '/vue/',
                             collapsible: true, 
                             items: [
@@ -39,7 +39,7 @@ export default {
                     collapsible: true,
                     items: [
                         {
-                            text: 'React核心',
+                            text: 'React相关',
                             link: '/react/',
                         }
                     ]
