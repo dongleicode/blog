@@ -11,7 +11,9 @@
     "preview": "vitepress preview docs",
     "serve": "vitepress serve docs"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "sass": "^1.57.1"
+  },
   "description": "技术成长过程点滴记录",
   "dependencies": {
     "vitepress": "^1.0.0-alpha.40",
