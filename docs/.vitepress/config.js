@@ -11,7 +11,6 @@ export default {
                 text: 'contact',
                 items: [
                     { text: 'github', link: 'https://github.com/dongleicode' },
-                    { text: 'email：mhwgodl@163.com', link: '' }
                 ]
             }
         ],
@@ -29,7 +28,15 @@ export default {
                                 {
                                     text: 'vue2和vue3核心原理差异',
                                     link: '/vue/core'
-                                }    
+                                },    
+                                {
+                                    text: 'vue2的双向数据绑定',
+                                    link: '/vue/reactive2'
+                                },
+                                {
+                                    text: 'vue3的双向数据绑定',
+                                    link: '/vue/reactive3'
+                                }
                             ]
                         }
                     ]
