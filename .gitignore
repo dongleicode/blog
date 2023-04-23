@@ -20,3 +20,4 @@ yarn-error.log*
 *.sln
 
 docs/.vitepress/dist/
+docs/.vitepress/cache/
