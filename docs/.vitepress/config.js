@@ -58,6 +58,10 @@ export default {
                         {
                             text: '架构设计',
                             link: '/framework/',
+                        },
+                        {
+                            text: '前端规范',
+                            link: '/framework/codeSpecification',
                         }
                     ]
                 }
