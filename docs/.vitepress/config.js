@@ -64,7 +64,27 @@ export default {
                             link: '/framework/codeSpecification',
                         }
                     ]
-                }
+                },
+                {
+                    text: 'Interview question',
+                    collapsible: true,
+                    items: [{
+                        text: 'js相关',
+                        link: '/js/',
+                        collapsible: true,
+                        items: [
+                            {
+                                text: 'stone',
+                                link: '/js/face/event_bus',
+                            },
+                            {
+                                text: 'Landscape cloud map',
+                                link: '/js/face/landscape_cloud_map',
+                            }
+                        ]
+                        }
+                    ]
+                },
             ]
         }
     }
