@@ -74,12 +74,16 @@ export default {
                         collapsible: true,
                         items: [
                             {
-                                text: 'stone',
+                                text: 'Stone',
                                 link: '/js/face/event_bus',
                             },
                             {
                                 text: 'Landscape cloud map',
                                 link: '/js/face/landscape_cloud_map',
+                            },
+                            {
+                                text: 'Yi fei rui te',
+                                link: '/js/face/yi_fei_rui_te',
                             }
                         ]
                         }
